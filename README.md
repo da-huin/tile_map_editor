@@ -31,7 +31,7 @@
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-### Tutorial
+### 🚀 Tutorial
 
 1. **타일 맵 에디터를 실행하려며 이 깃을 클론받고, 아래의 파일을 실행하세요.**
 
